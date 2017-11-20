@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActiveMQDemo.iml" filepath="$PROJECT_DIR$/ActiveMQDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/activeMqProvider/activeMqProvider.iml" filepath="$PROJECT_DIR$/activeMqProvider/activeMqProvider.iml" />
     </modules>
   </component>
 </project>
